@@ -32,7 +32,7 @@ All queries are written and executed in **MySQL Workbench** to build a solid fou
 
 SQL_Projects/
 │
-├── README.md                  ← main readme (shows on repo home page)
+├── README.md
 ├── Retail_Sales_Project/
 │   └── README.md
 └── Zepto_Inventory_Project/
