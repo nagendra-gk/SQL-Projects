@@ -36,7 +36,8 @@ All queries are written and executed in **MySQL Workbench** to build a solid fou
 │   ├── 🗒️ retail_sales_queries.sql  
 │   ├── 📄 retail_sales_readme.md  
 │   └── 📊 retail_sales_dataset.csv  
-│  
+│    https://github.com/nagendra-gk/SQL-Data-Analysis-Projects/tree/main
+
 ├── 📂 Zepto_Inventory_Data_Insights 
 │   ├── 🗒️ zepto_inventory_queries.sql  
 │   ├── 📄 zepto_inventory_readme.md  
