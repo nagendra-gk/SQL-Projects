@@ -1,4 +1,4 @@
-# 🧠 SQL Projects 
+# 🧠 SQL Data Analysis Projects
 
 This repository includes **beginner-level SQL projects** focused on **data cleaning, exploration, and business analysis** using real-world datasets.  
 All queries are written and executed in **MySQL Workbench** to build a solid foundation in SQL for data analytics.
