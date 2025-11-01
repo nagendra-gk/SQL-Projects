@@ -42,6 +42,7 @@ All queries are written and executed in **MySQL Workbench** to build a solid fou
 │   ├── 🗒️ zepto_inventory_queries.sql  
 │   ├── 📄 zepto_inventory_readme.md  
 │   └── 📊 zepto_inventory_dataset.csv  
-│  
+│  [Zepto Inventory Project](https://github.com/nagendra-gk/SQL-Data-Analysis-Projects/tree/main/Zepto_Inventory_Project)
+
 └── 📄 README.md
 x
