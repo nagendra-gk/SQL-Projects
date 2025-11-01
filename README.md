@@ -30,26 +30,11 @@ All queries are written and executed in **MySQL Workbench** to build a solid fou
 
 ## 📁 Repository Structure
 
-📦 SQL_Projects  
-│  
-├── 📂 Retail_Sales_Analysis  
-│   ├── 🗒️ retail_sales_queries.sql  
-│   ├── 📄 retail_sales_readme.md  
-│   └── 📊 retail_sales_dataset.csv  
-│    https://github.com/nagendra-gk/SQL-Data-Analysis-Projects/tree/main
-
-├── 📂 Zepto_Inventory_Data_Insights 
-│   ├── 🗒️ zepto_inventory_queries.sql  
-│   ├── 📄 zepto_inventory_readme.md  
-│   └── 📊 zepto_inventory_dataset.csv  
-│  [Zepto Inventory Project](https://github.com/nagendra-gk/SQL-Data-Analysis-Projects/tree/main/Zepto_Inventory_Project)
-
-└── 📄 README.md
-## 📂 Projects Included
-
-1. [🛍️ Retail Sales Analysis](https://github.com/nagendra-gk/SQL-Data-Analysis-Projects/tree/main/Retail_Sales_Project)  
-   Learn how I analyzed retail sales data using SQL — from cleaning data to finding top-selling months and insights.
-
-2. [🛒 Zepto Inventory Data Insights](https://github.com/nagendra-gk/SQL-Data-Analysis-Projects/tree/main/Zepto_Inventory_Project)  
-   A project on inventory analysis — exploring pricing, discounts, and product performance.
+SQL_Projects/
+│
+├── README.md                  ← main readme (shows on repo home page)
+├── Retail_Sales_Project/
+│   └── README.md
+└── Zepto_Inventory_Project/
+    └── README.md
 
